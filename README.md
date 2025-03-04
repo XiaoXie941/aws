@@ -1,1 +1,5 @@
 该软件仅为发行测试版
+
+目前只能使用wish studio code来运行,如果会打包的话可以自己尝试打包
+
+请确保自己的电脑有安装java或者visual studio code中有安装java插件
